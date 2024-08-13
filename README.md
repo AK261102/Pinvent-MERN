@@ -2,7 +2,7 @@ Pinvent App
 
 Project Overview:https://docs.google.com/presentation/d/19qEiNAWU_FEWjEp-9EwQ7ZVPRx7GMQeX/edit?usp=drive_link&ouid=109108797428920772644&rtpof=true&sd=true
 
-Pinvent App is a comprehensive inventory management system designed to streamline the tracking and management of products, stock levels, and orders. This application aims to provide businesses with an intuitive and efficient way to handle inventory, minimizing errors, and enhancing productivity.
+The project we developed is called Pinvent, a comprehensive inventory management system tailored for small to medium-sized businesses. The application allows users to efficiently manage their inventory, track stock levels, and generate insightful reports.
 
 Features
 
