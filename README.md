@@ -16,35 +16,28 @@ Features
 6) Multi-user Support: Allows multiple users with different access levels to manage the inventory.
 
 Installation
+  To get started with the Pinvent App, follow these steps:
 
-To get started with the Pinvent App, follow these steps:
+  Clone the Repository:
+  Copy code:
+  git clone https://github.com/yourusername/pinvent-app.git
+  cd pinvent-app
 
-Clone the Repository:
+  Install Dependencies:
+  Copy code
+  npm install
+  
+  Set Up Environment Variables:
+  Create a .env file in the root directory and add your environment variables:
+  Copy code
+  MONGODB_URI=<your_mongodb_connection_string>
+  JWT_SECRET=<your_jwt_secret_key>
 
-Copy code:
-git clone https://github.com/yourusername/pinvent-app.git
-cd pinvent-app
-
-Install Dependencies:
-
-Copy code
-npm install
-
-Set Up Environment Variables:
-
-Create a .env file in the root directory and add your environment variables:
-
-Copy code
-
-MONGODB_URI=<your_mongodb_connection_string>
-JWT_SECRET=<your_jwt_secret_key>
-
-Run the Application:
-
-Copy code
-npm start
-Access the Application:
-Open your browser and navigate to http://localhost:3000.
+  Run the Application:
+  Copy code
+  npm start
+  Access the Application:
+  Open your browser and navigate to http://localhost:3000.
 
 Usage
 
@@ -55,7 +48,6 @@ Usage
 5) Generate Reports: Visit the 'Reports' section to generate and download reports in various formats.
 
 Contribution
-
 Contributions are welcome! To contribute to Pinvent App, please follow these steps:
 
 1) Fork the repository.
