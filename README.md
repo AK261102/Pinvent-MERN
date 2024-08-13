@@ -1,17 +1,65 @@
-Backend for Inventory Management App
-Inventory system to control and manage products in warehouse in real time and integrated to make it easier to develop your business.
+Pinvent App
 
-• User login/signup with authentication and password reset.
+PROJECT DOCUMENTATION:https://docs.google.com/presentation/d/19qEiNAWU_FEWjEp-9EwQ7ZVPRx7GMQeX/edit?usp=sharing&ouid=109108797428920772644&rtpof=true&sd=true
 
-• Dashboard (for users and admin), Add product section (for admin), Account section (to view and edit profile), Transaction History section, and Report bug section, etc.
+Project Overview
 
-Techstack used - React, SCSS, NodeJs, Express, Redux toolkit, Cloudinary, Nodemailer
-This readme is guide(steps) for how to create similar backend.
+Pinvent App is a comprehensive inventory management system designed to streamline the tracking and management of products, stock levels, and orders. This application aims to provide businesses with an intuitive and efficient way to handle inventory, minimizing errors, and enhancing productivity.
 
-Our frontend looks like :
+Features
 
-IMA1 IMA7 IMA2 IMA4 IMA3
+1) Product Management: Add, update, and remove products from your inventory with ease.
+2) Stock Tracking: Real-time updates on stock levels to ensure you never run out of critical items.
+3) Order Management: Efficiently process orders, track status, and update inventory accordingly.
+4) User Authentication: Secure login and registration system to protect sensitive data.
+5) Reporting: Generate detailed reports on inventory levels, sales, and other key metrics.
+6) Multi-user Support: Allows multiple users with different access levels to manage the inventory.
 
-Backend tested using Postman :
+Installation
 
-Follow the "backendReadme.txt" in the above files section to get the steps.
+To get started with the Pinvent App, follow these steps:
+
+Clone the Repository:
+
+Copy code:
+git clone https://github.com/yourusername/pinvent-app.git
+cd pinvent-app
+
+Install Dependencies:
+
+Copy code
+npm install
+
+Set Up Environment Variables:
+
+Create a .env file in the root directory and add your environment variables:
+
+Copy code
+
+MONGODB_URI=<your_mongodb_connection_string>
+JWT_SECRET=<your_jwt_secret_key>
+
+Run the Application:
+
+Copy code
+npm start
+Access the Application:
+Open your browser and navigate to http://localhost:3000.
+
+Usage
+
+1) Dashboard: View an overview of your inventory, including stock levels and recent orders.
+2) Add Products: Navigate to the 'Add Product' section to input new products into the system.
+3) Update Stock: Adjust stock levels directly from the product details page.
+4) Process Orders: Use the 'Orders' section to manage incoming orders and update their status.
+5) Generate Reports: Visit the 'Reports' section to generate and download reports in various formats.
+
+Contribution
+
+Contributions are welcome! To contribute to Pinvent App, please follow these steps:
+
+1) Fork the repository.
+2) Create a new branch (git checkout -b feature-branch).
+3) Make your changes and commit them (git commit -m 'Add new feature').
+4) Push to the branch (git push origin feature-branch).
+Open a Pull Request.
