@@ -1,10 +1,11 @@
 Pinvent App
 
-Project Overview:https://docs.google.com/presentation/d/19qEiNAWU_FEWjEp-9EwQ7ZVPRx7GMQeX/edit?usp=drive_link&ouid=109108797428920772644&rtpof=true&sd=true
+## Project Overview:
+<a href="https://docs.google.com/presentation/d/19qEiNAWU_FEWjEp-9EwQ7ZVPRx7GMQeX/edit?usp=drive_link&ouid=109108797428920772644&rtpof=true&sd=true"> Documentation </a>
 
 The project we developed is called Pinvent, a comprehensive inventory management system tailored for small to medium-sized businesses. The application allows users to efficiently manage their inventory, track stock levels, and generate insightful reports.
 
-Features
+## Features
 
 1) Product Management: Add, update, and remove products from your inventory with ease.
 2) Stock Tracking: Real-time updates on stock levels to ensure you never run out of critical items.
@@ -13,7 +14,7 @@ Features
 5) Reporting: Generate detailed reports on inventory levels, sales, and other key metrics.
 6) Multi-user Support: Allows multiple users with different access levels to manage the inventory.
 
-Installation
+## Installation
 
 To get started with the Pinvent App, follow these steps:
 
@@ -44,7 +45,7 @@ npm start
 Access the Application:
 Open your browser and navigate to http://localhost:3000.
 
-Usage
+## Usage
 
 1) Dashboard: View an overview of your inventory, including stock levels and recent orders.
 2) Add Products: Navigate to the 'Add Product' section to input new products into the system.
@@ -52,7 +53,7 @@ Usage
 4) Process Orders: Use the 'Orders' section to manage incoming orders and update their status.
 5) Generate Reports: Visit the 'Reports' section to generate and download reports in various formats.
 
-Contribution
+## Contribution
 
 Contributions are welcome! To contribute to Pinvent App, please follow these steps:
 
