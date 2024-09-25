@@ -5,6 +5,21 @@ Pinvent App
 
 The project we developed is called Pinvent, a comprehensive inventory management system tailored for small to medium-sized businesses. The application allows users to efficiently manage their inventory, track stock levels, and generate insightful reports.
 
+## 🖥️ Tech Stack
+*Frontend:*
+
+![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
+![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+
+
+*Backend:*
+
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 ## Features
 
 1) Product Management: Add, update, and remove products from your inventory with ease.
